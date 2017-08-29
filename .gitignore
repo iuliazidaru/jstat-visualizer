@@ -1,0 +1,10 @@
+*.log
+*.log_cleaned
+*.csv
+*.html
+
+
+/.idea
+/stats-graph.py
+/notes
+/jstatVisualizer.iml
