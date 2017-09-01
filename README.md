@@ -15,5 +15,5 @@ Run jstat with -gcutil option, add timestamp and redirect the output to a file.
 
 Create the graphs:
 
-`python jstat-graph.py gcutilSY-wrongGCopt.log`
+`python jstat-graph.py jstatEclipse.log`
 
